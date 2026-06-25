@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.ashv.github.io/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Add individual book pages here as you create them -->
+  
+  <url>
+    <loc>https://www.ashv.github.io/books/jack-full-heart</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.ashv.github.io/images/jack-full-heart.jpg</image:loc>
+      <image:title>Jack's full heart – Children's Book by AshV</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.ashv.github.io/books/incredible-mia-part-1</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.ashv.github.io/images/incredible-mia-1.jpeg</image:loc>
+      <image:title>Incredible Mia – Children's Book by AshV</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.ashv.github.io/books/incredible-mia-part-2</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.ashv.github.io/images/incredible-mia-2.jpeg</image:loc>
+      <image:title>Incredible Mia: The Brave Little Queen – Children's Book by AshV</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://www.ashv.github.io/books/lola</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.ashv.github.io/images/lola.png</image:loc>
+      <image:title>Lola and the puddle that became an ocean – Children's Book by AshV</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.ashv.github.io/books/sara-and-the-mermaid</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.ashv.github.io/images/sara-mermaid.png</image:loc>
+      <image:title>Sara and the mermaid – Children's Book by AshV</image:title>
+    </image:image>
+  </url>
+</urlset>
