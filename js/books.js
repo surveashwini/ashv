@@ -120,7 +120,7 @@ const BOOKS = [
       A heartwarming story about friendship, courage, belonging, and the magic waiting just beyond our fears.
       Perfect for young readers who dream of mermaids, ocean adventures, and finding their very best friend.`,
     cover: "images/sara-mermaid.png",
-    asin: "XXXXXXXXXX",
+    asin: "B0GX2WZHN1",
     badge: "New",
     year: 2021,
     schema: {
